@@ -1,6 +1,6 @@
-const menubtn = document.querySelector('.menu')
-menu = document.querySelector('header ul')
-up = document.querySelector('.up')
+var menubtn = document.querySelector('.menu')
+var menu = document.querySelector('header ul')
+var up = document.querySelector('.up')
 
 menubtn.onclick = function() {
   if (!menu.classList.contains('open')) {
