@@ -23,9 +23,9 @@ header {
   width: 100%;
   background-color: rgba(249, 3, 255, 1);
   position: fixed;
-  top: 0;
-   z-index: 100000000; 
-  transition: 1s;
+ top:0;
+ z-index:100000000; 
+ transition: 1s;
 }
 
 .dark header {
