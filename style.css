@@ -444,7 +444,7 @@ header ul li a:hover {
   color: #1f67db;
 }
 
-#contact cards card:hover {
+#contact .cards .card:hover {
   transform: scale(1.08);
   height: 170px;
 }

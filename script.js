@@ -17,7 +17,7 @@ menubtn.onclick = function() {
 }
 
 window.addEventListener('scroll', () => {
-  if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+  if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
     up.style.display = "block"
   } else {
     up.style.display = "none"
