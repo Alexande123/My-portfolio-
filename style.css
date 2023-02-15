@@ -271,6 +271,7 @@ header ul li a:hover {
   z-index: 10000000;
   transform: translateY(30px);
   transition: 0.5s;
+  display : none ;
 }
 
 .html {
@@ -279,6 +280,7 @@ header ul li a:hover {
 
 .css {
   color: #4269F5;
+  display: none ;
 }
 
 .js {
@@ -288,6 +290,7 @@ header ul li a:hover {
 .card:hover ion-icon {
   position: static;
   transform: translateY(0);
+  display : block ;
 }
 
 .card h3 {
